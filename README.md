@@ -188,3 +188,196 @@ The curriculum extract of the course at [Learn Javascript](https://learnjavascri
 37. [ ] **Hands on**: Dota Heroes: Filtering heroes (Part 1)
 38. [ ] **Hands on**: Dota Heroes: Filtering heroes (Part 2)
 39. [ ] **Hands on**: Dota Heroes: Refactoring
+
+### Module 13 <small>Advanced asynchronous Javascript</small>
+1. [ ] Requesting many resources at once
+2. [ ] Getting Response headers in JavaScript
+3. [ ] Dealing with paginated responses (part 1)
+4. [ ] Dealing with paginated responses (part 2)
+5. [ ] Async and await
+6. [ ] Timeouts
+7. [ ] Async loops
+8. [ ] Recursive XHR
+
+### Module 14 <small>Dates</small>
+1. [ ] The Date Object
+2. [ ] Getting a formatted date
+3. [ ] Getting the time
+4. [ ] Local time and UTC Time
+5. [ ] Setting a specific date
+6. [ ] Setting a date with Date methods
+7. [ ] Adding (or subtracting) date and time
+8. [ ] Comparing Dates and times
+9. [ ] **Hands on**: Datepicker: Initial HTML and CSS
+10. [ ] **Hands on**: Datepicker: Building the calendar
+11. [ ] **Hands on**: Datepicker: Building the datepicker with JavaScript
+12. [ ] **Hands on**: Datepicker: Previous and next buttons
+13. [ ] **Hands on**: Datepicker: Selecting a date
+14. [ ] **Hands on**: Datepicker: Positioning the datepicker
+15. [ ] **Hands on**: Datepicker: Showing and hiding
+16. [ ] Formatting a date with toLocaleString
+17. [ ] setTimeout
+18. [ ] setInterval
+19. [ ] **Hands on**: Countdown: The HTML and CSS
+20. [ ] **Hands on**: Countdown: The JavaScript
+21. [ ] **Hands on**: Countdown: Counting months
+22. [ ] **Hands on**: Countdown: Daylight Saving Time
+23. [ ] **Hands on**: Countdown: Counting years
+
+### Module 15 <small>Scroll, mouze and resize events</small>
+1. [ ] Handling Scroll events
+2. [ ] Handling Mouse events
+3. [ ] Handling Touch events
+4. [ ] **Hands on**: Building an auto-hiding sticky nav
+5. [ ] **Hands on**: Building a same-page-scroll link
+6. [ ] **Hands on**: Building an infinite-scrolling page
+7. [ ] **Hands on**: Building a scrollspy
+8. [ ] **Hands on**: Building a drag & drop component
+9. [ ] **Hands on**: Improving the carousel
+10. [ ] **Hands on**: Improving the date picker
+
+### Module 16 <small>Keyboard</small>
+1. [ ] Keyboard users
+2. [ ] Handling commonly used keys
+3. [ ] Keyboard events
+4. [ ] Understanding Tabindex
+5. [ ] Detecting the focused element
+6. [ ] Directing focus
+7. [ ] Preventing people from tabbing into elements
+8. [ ] How to choose keyboard shortcuts
+9. [ ] Creating single-key shortcuts
+10. [ ] Keyboard shortcuts with Command and Control modifiers
+11. [ ] **Hands on**: Off-canvas: Adding keyboard interaction
+12. [ ] **Hands on**: Modal: Adding keyboard interaction
+13. [ ] **Hands on**: Accordion: Adding keyboard interaction
+14. [ ] **Hands on**: Tabby: Adding keyboard interaction — updated!
+15. [ ] **Hands on**: Tabby: Refactoring
+16. [ ] **Hands on**: Carousel: Adding keyboard interaction — updated!
+17. [ ] **Hands on**: Carousel: Displaying help text
+18. [ ] **Hands on**: Calculator: Adding keyboard interaction
+19. [ ] **Hands on**: Popover: Keyboard
+20. [ ] **Hands on**: Popover: Refactor
+21. [ ] Keyboard shortcuts with Command and Control modifiers
+22. [ ] **Hands on**: Todolist: Keyboard
+23. [ ] **Hands on**: Typeahead: Keyboard
+24. [ ] **Hands on**: Typeahead: Selecting a prediction with the keyboard
+25. [ ] **Hands on**: Typeahead: Selecting a prediction with the keyboard
+26. [ ] **Hands on**: Google Maps Clone: Keyboard
+27. [ ] **Hands on**: Dota Heroes: Keyboard
+28. [ ] **Hands on**: Datepicker: Tabbing in and out
+29. [ ] **Hands on**: Datepicker: Keyboard shortcuts
+
+### Module 17 <small>Accessibility</small>
+1. [ ] What is accessibility?
+2. [ ] How to use a screen reader
+3. [ ] Using NVDA
+4. [ ] Using Voiceover
+5. [ ] Aria roles
+6. [ ] Landmark roles
+7. [ ] Document structure roles
+8. [ ] Live region roles
+9. [ ] Widget roles
+10. [ ] Window and Abstract roles
+11. [ ] Accessible names and descriptions
+12. [ ] Hiding content
+13. [ ] How CSS affects ARIA
+14. [ ] ARIA properties and ARIA states
+15. [ ] ARIA for expandable widgets
+16. [ ] **Hands on**: Off-canvas: Accessibility
+17. [ ] ARIA for modal dialogs
+18. [ ] **Hands on**: Modal: Screen reader accessibility
+19. [ ] **Hands on**: Accordion: Screen reader accessibility
+20. [ ] ARIA for Tabbed components
+21. [ ] **Hands on**: Tabby: Screen reader accessibility
+22. [ ] **Hands on**: Tabby: Refactor
+23. [ ] **Hands on**: Carousel: Screen reader accessibility
+24. [ ] Roles that trigger Forms and Application modes
+25. [ ] **Hands on**: Calculator: Screen reader accessibility
+26. [ ] **Hands on**: Popover: Screen reader accessibility
+27. [ ] **Hands on**: Todolist: Screen reader accessibility
+28. [ ] **Hands on**: Todolist: Error handling and status updates
+29. [ ] **Hands on**: Datepicker: Screen reader accessibility
+
+### Module 18 <small>Progressive enhancement</small>
+1. [ ] The progressive enhancement mindset
+2. [ ] What if there’s no JavaScript?
+3. [ ] Feature detection and polyfilling
+4. [ ] Vendor prefixing
+5. [ ] **Hands on**: Enhancing every component you've built
+
+### Module 19 <small>Object oriented programming</small>
+1. [ ] What is Object Oriented Programming?
+2. [ ] This in Javascript
+3. [ ] Javascript Classes
+4. [ ] Inheritance
+5. [ ] Prototype in Javascript
+6. [ ] Inheritance with Prototype
+7. [ ] Constructing objects
+8. [ ] Composition and inheritance
+9. [ ] Private and public variables
+10. [ ] Call, bind and apply
+
+### Module 20 <small>Single page applications</small>
+1. [ ] The foundation to frontend frameworks
+2. [ ] The MVC Architecture
+3. [ ] **Hands on**: building the card generator
+4. [ ] Routing
+5. [ ] **Hands on**: adding routing to the card generator
+6. [ ] Data flow with vanilla-style flux/redux
+7. [ ] Authentication
+8. [ ] **Hands on**: adding authentication to the card generator
+
+## Projects that will (should) be built
+#### Off-canvas sidebar
+![Off Canvas](projects-img/off-canvas.gif)
+
+#### Modal Window
+![Off Canvas](projects-img/modal.gif)
+
+#### Accordion
+![Off Canvas](projects-img/accordion.gif)
+
+#### Tabbed Component
+![Off Canvas](projects-img/tab.gif)
+
+#### Carousel
+![Off Canvas](projects-img/carousel.gif)
+
+#### Calculator
+![Off Canvas](projects-img/calculator.gif)
+
+#### Popover
+![Off Canvas](projects-img/popover.gif)
+
+#### Typeahead
+![Off Canvas](projects-img/typeahead.gif)
+
+#### Todolist
+![Off Canvas](projects-img/todolist-2.gif) 
+
+#### Dota Heroes List
+![Off Canvas](projects-img/dota.gif)
+
+#### Google Maps Component
+![Off Canvas](projects-img/google-map.gif)
+
+#### Datepicker
+![Off Canvas](projects-img/datepicker.gif)
+
+#### Countdown timer
+![Off Canvas](projects-img/countdown.gif)
+
+#### Auto-hiding Nav
+
+#### Infinite Scroll
+
+#### Same Page scroll link
+
+#### Infinite scrolling page
+
+#### Scrollspy component
+
+#### Drag and Drop
+
+#### Card generator app
+![Off Canvas](projects-img/spa.png)
