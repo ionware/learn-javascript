@@ -4,24 +4,24 @@ The curriculum extract of the course at [Learn Javascript](https://learnjavascri
 > Outline are in checklist format (task), when each task is done, it is crossed.
 
 ### Module 1 <small>Javascript and its Ecosystem</small>
-1. [ ] What is Javascript used for?
-2. [ ] The Javascript Ecosystem
-3. [ ] Varying versions of Javascript
+1. [x] What is Javascript used for?
+2. [x] The Javascript Ecosystem
+3. [x] Varying versions of Javascript
 
 ### Module 2 <small>Javascript Basics</small>
-1. [ ] Linking your Javascript Files
-2. [ ] Preparing your text editor
-3. [ ] The Console
-4. [ ] Comments
-5. [ ] You don't need semicolons
-6. [ ] Strings Numbers and Booleans
-7. [ ] Declaring Variables
-8. [ ] Functions
-9. [ ] Arrow Functions
-10. [ ] Intro to Objects
-11. [ ] if/else Statements
-12. [ ] The NOT Operator
-13. [ ] Null and Undefined
+1. [x] Linking your Javascript Files
+2. [x] Preparing your text editor
+3. [x] The Console
+4. [x] Comments
+5. [x] You don't need semicolons
+6. [x] Strings Numbers and Booleans
+7. [x] Declaring Variables
+8. [x] Functions
+9. [x] Arrow Functions
+10. [x] Intro to Objects
+11. [x] if/else Statements
+12. [x] The NOT Operator
+13. [x] Null and Undefined
 14. [ ] The BOM and the DOM
 15. [ ] Selecting Elements
 16. [ ] Changing classes
